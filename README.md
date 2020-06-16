@@ -1,5 +1,5 @@
 # MollweideProjection-of-HYG-Catalog
-• Mollweide Projection of stars(120,000 stars) in HYG Catalog
+• Mollweide Projection of stars(120,000 stars) in HYG Catalog. 
 The four subplots have respectively only O,B,F,M spectral types of stars and the size of the marker is proportional to the flux incident.
 
 • Scrapped data of the Gamma-ray-bursts observed
